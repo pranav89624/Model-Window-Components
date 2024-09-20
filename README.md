@@ -3,19 +3,21 @@ A sleek model window component built with HTML, CSS, JavaScript, and jQuery. Thi
 
 Features:<br>
   <ul>
-   <li>Clickable drum pads that produce sounds. </li>
-    <li>Keyboard controls for triggering drum sounds. </li>
+   <li>Reusable Model Window Compononet</li>
+    <li>Keyboard controls for hiding the window. </li>
     <li>Responsive and visually appealing design. </li>
-    <li>Clean and modular code structure for easy understanding and modification. </li>
+    <li>Clean and modular JavaScript code structure for easy understanding and modification. </li>
+    <li>Minified CSS for Making the webpage faster. </li>
   </ul>
 Technologies used:<br>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
       <li>Javascript</li>
+      <li>jQuery</li>
     </ul>
-How to play:<br>
-   <ul> Click on button, or Press the key of the given word on keyboard.</ul>
+How to use:<br>
+   <ul> Click on button to show window </ul>
 
 Usage : 
 <ul>
@@ -23,7 +25,7 @@ Usage :
   OR
   <li>Go to the website I provided in the about section of this repository.</li>
   OR
-  <li>Simply just <a href="https://pranav89624.github.io/Drum-Kit/" target="_blank">Tap Here</a>.</li>
+  <li>Simply just <a href="https://pranav89624.github.io/Model-Window-Components/" target="_blank">Tap Here</a>.</li>
   <br>The project is fully responsive and optimized for various screen sizes.
 </ul>
 
